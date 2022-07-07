@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/git@github.com:acreedx/paginaWebReact.git/static/css/main.c9afc640.css",
+    "main.js": "/git@github.com:acreedx/paginaWebReact.git/static/js/main.f7a6b4da.js",
+    "static/media/fondo.jpeg": "/git@github.com:acreedx/paginaWebReact.git/static/media/fondo.46f957d94e79e27e7a54.jpeg",
+    "index.html": "/git@github.com:acreedx/paginaWebReact.git/index.html",
+    "static/media/delete.svg": "/git@github.com:acreedx/paginaWebReact.git/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/check.svg": "/git@github.com:acreedx/paginaWebReact.git/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.c9afc640.css.map": "/git@github.com:acreedx/paginaWebReact.git/static/css/main.c9afc640.css.map",
+    "main.f7a6b4da.js.map": "/git@github.com:acreedx/paginaWebReact.git/static/js/main.f7a6b4da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9afc640.css",
+    "static/js/main.f7a6b4da.js"
+  ]
+}
